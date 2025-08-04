@@ -30,4 +30,6 @@ Authentication: JSON Web Token (JWT)
 
 Standard: ES6
 
+Database: MongoDB Atlas
+
 
